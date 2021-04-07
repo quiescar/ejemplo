@@ -4,7 +4,11 @@
 
 <div align="center">
 
+
 NELSON JARVEY CIFUENTES BARRAGAN cesar angel perez
+
+NELSON JARVEY CIFUENTES BARRAGAN LAURA JOHANA RIZO BERNAL
+
 
   
   
