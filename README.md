@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-NELSON JARVEY CIFUENTES BARRAGAN
+  LAURA JOHANA RIZO BERNAL
   
   
 <div align="center">
