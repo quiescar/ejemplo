@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<p> Cesar David Angel Perez </p>
-
-  LAURA JOHANA RIZO BERNAL NELSON JARVEY CIFUENTES BARRAGAN
+NELSON JARVEY CIFUENTES BARRAGAN 
 
   
   
