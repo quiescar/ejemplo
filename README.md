@@ -1,14 +1,20 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<h2> Ejemplo de clase README.md Modificado desde el orignal 2<img src="https://media.giphy.com/media/DgAxqbikwkwf9kuHIs/giphy.gif" width="80"></h2>
+
 <div align="center">
-  <h2> Ejemplo de clase README.md Modificado desde el orignal 2<img src="https://media.giphy.com/media/DgAxqbikwkwf9kuHIs/giphy.gif" width="80"></h2>
+    
+    
+    Espacio para ejemplo
+  
+  
+  
 <div align="center">
-  <h2> Ejemplo de clase README.md Modificado desde el orignal 2<img src="https://media.giphy.com/media/DgAxqbikwkwf9kuHIs/giphy.gif" width="80"></h2>
-<div align="center">
-    <h2> Ejemplo de clase README.md Modificado desde el orignal 2<img src="https://media.giphy.com/media/DgAxqbikwkwf9kuHIs/giphy.gif" width="80"></h2>
-<div align="center">
+  
+  
+  
+  
+  
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
