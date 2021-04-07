@@ -3,7 +3,11 @@
 </p>
 
 <div align="center">
+
+<p> Cesar David Angel Perez </p>
+
   LAURA JOHANA RIZO BERNAL
+
   
   
 <div align="center">
