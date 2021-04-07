@@ -3,31 +3,7 @@
 </p>
 
 <div align="center">
-    
-    
 
-    laura Nelson rizo
-
-
-   laura Nelson Cifuentes. cesar angel. Cambio Nelson
-
-
-   ngelaura Nelson Cifuentes. cesar . Cambio Nelson  CAMBIO DE NELSON Cambio laura
-
-
-
-   ngelaura Nelson Cifuentes. cesar angel
-
-   ngelaura Nelson Cifuentes. cesar . Cambio Nelson
-
-
-   ngelaura Nelson Cifuentes. cesar . Cambio Nelson  CAMBIO DE NELSON
-
-
-
-    rizo
-
-  
   
   
 <div align="center">
